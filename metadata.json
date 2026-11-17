@@ -1,0 +1,6 @@
+{
+  "name": "AWN Client Portal",
+  "description": "Enterprise client portal dashboard for managing business subscriptions, compliance renewals, documents analytics, and government services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
